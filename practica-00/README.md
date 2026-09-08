@@ -1,14 +1,14 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** <!-- Miguel Angel Rodriguez Hernandez-->
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** <!-- MigueRodr -->
 
 ## Sobre mí
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
+<!--Me gusta desarrollar aplicaciones, bases de datos, me gustaria construir un juego como Undertale o si no hubieran barreras, tipo mundo abierto o de fantasía retro, He trabajado con JS, Java, php, React, Phyton->
+     
 
 ## Progreso de la campaña
 
@@ -34,5 +34,5 @@
 
 ## Bitácora
 
-<!-- Opcional pero recomendado: una línea por semana sobre qué aprendiste o
-     qué te costó. Al final del semestre es sorprendentemente valioso releerla. -->
+<!-- Semana1- Aprendi aun mas sobre Github, es increiblemente utíl como herramienta, me resulta interesante el uso de las ramas, ramas principales y temporales
+     Semana2- Aprendi o volvi a repasar sobre la estructura semántica de HTML ya lo habia visto antes, pero es valio repasar estas etiquetas y emmet ya que con la llegada de IA, uno ya no practica mucho estas etiquetas-->
