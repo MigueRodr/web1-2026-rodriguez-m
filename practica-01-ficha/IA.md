@@ -2,7 +2,7 @@
 
 ## Herramientas que usé
 
-Usé ChatGPT/Codex como asistente de aprendizaje y para obtener una primera propuesta
+Usé ChatGPT/Codex-Modelo 5.6 Terra, como asistente de aprendizaje y para obtener una primera propuesta
 de estructura HTML. No copié el resultado sin leerlo: revisé cada elemento antes de
 incluirlo en la práctica.
 
@@ -26,6 +26,8 @@ convención `practica-NN-nombre`. Además, no puede incluir una fotografía real
 personaje por sí sola: debo añadir el archivo local `assets/tilin.jpg` y ajustar
 el texto alternativo para que describa esa imagen exacta.
 
+El agente de codex solo logro decirme que tenia que poner la imagen en assets y escribir la dirección de la imagen en el index.html, no hubo problemas con ello ya que esto se explico en clase.
+
 ## Qué corregí y por qué
 
 Organicé la entrega en `practica-01-ficha`, que coincide con la convención del
@@ -34,17 +36,12 @@ tabla y mantuve una jerarquía de encabezados sin saltos: un `h1` seguido de var
 `h2`. Antes de entregar revisaré el resultado en W3C y Lighthouse, y registraré aquí
 cualquier corrección adicional que encuentre.
 
-Después pedí adaptar el contenido al personaje viral Tilín. Cambié el título, las
+Después pedí adaptar el contenido al personaje Tilín. Cambié el título, las
 estadísticas, las habilidades, los párrafos de historia y los textos del formulario.
-También cambié la ruta de imagen a `assets/tilin.jpg`. Debo reemplazar el texto
-alternativo si la fotografía que elija no muestra a Tilín bailando con traje de
-colores.
-
+También cambié la ruta de imagen a `assets/tilin.jfif`. 
 ## Qué escribí yo desde cero
 
-Debo elegir y guardar la imagen local de Tilín, comprobar que el texto alternativo
-corresponda a ella y realizar las validaciones finales. También revisaré que no se
-agregue CSS a esta misión.
+Gran parte de la estrutura, el formulario, la imagen y use el html5 + tab
 
 ## Reflexión
 
